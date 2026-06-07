@@ -4,6 +4,12 @@
 
 With a unified architecture, you can initialize your AI models once and carry them with you across **Windows, macOS, and Linux**.
 
+## One-Liner Install
+
+```bash
+curl -sL https://github.com/Drstone0007/drtlemon-ai/archive/refs/heads/main.tar.gz | tar xz && cd drtlemon-ai-main && bash install.sh
+```
+
 ---
 
 ## Core Features
